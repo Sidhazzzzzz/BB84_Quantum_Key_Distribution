@@ -49,6 +49,3 @@ No attacker can hide, because in quantum mechanics **measuring a qubit disturbs 
 Everything is kept readable and beginner-friendly.
 
 ---
-
-## 📦 Repository Contents  
-
